@@ -1,0 +1,11 @@
+# PDF-Chat-App
+Langchain: PDF Chat App (GUI) | ChatGPT for Your PDF FILES
+
+Everything ou will need:
+
+langchaine.0.154
+PyPDF2= 3.0.1
+python-dotenv=1.0.0
+streamlit=1.18.1
+faiss-cpu-1.7.4
+streamlit-extras
